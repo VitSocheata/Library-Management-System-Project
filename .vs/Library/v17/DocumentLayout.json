@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\completebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\completebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|d:\\ooad assignment y4\\library management system projects\\library\\library\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\issuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\studentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -27,12 +39,8 @@
       "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|d:\\ooad assignment y4\\library management system projects\\library\\library\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\completebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\completebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -52,14 +60,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Library||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|solutionrelative:library\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{798F71E1-B533-4755-8F9F-2E3E3A898D7B}|Library\\Library.csproj|D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\library\\viewbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,43 +106,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddBooks.cs [Design]",
-              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddBooks.cs",
-              "RelativeDocumentMoniker": "Library\\AddBooks.cs",
-              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddBooks.cs [Design]",
-              "RelativeToolTip": "Library\\AddBooks.cs [Design]",
+              "Title": "IssueBook.cs [Design]",
+              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\IssueBook.cs",
+              "RelativeDocumentMoniker": "Library\\IssueBook.cs",
+              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\IssueBook.cs [Design]",
+              "RelativeToolTip": "Library\\IssueBook.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T15:25:11.886Z",
+              "WhenOpened": "2025-10-12T08:54:03.809Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddStudent.cs [Design]",
-              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddStudent.cs",
-              "RelativeDocumentMoniker": "Library\\AddStudent.cs",
-              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddStudent.cs [Design]",
-              "RelativeToolTip": "Library\\AddStudent.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:04:34.29Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Program.cs",
-              "RelativeDocumentMoniker": "Library\\Program.cs",
-              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Program.cs",
-              "RelativeToolTip": "Library\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:43:19.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ViewBook.cs [Design]",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ViewBook.cs",
               "RelativeDocumentMoniker": "Library\\ViewBook.cs",
@@ -154,26 +129,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "StudentView.cs [Design]",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\StudentView.cs",
               "RelativeDocumentMoniker": "Library\\StudentView.cs",
               "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\StudentView.cs [Design]",
               "RelativeToolTip": "Library\\StudentView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:52:20.727Z",
+              "WhenOpened": "2025-10-12T08:52:20.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReturnBook.cs",
+              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "Library\\ReturnBook.cs",
+              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs",
+              "RelativeToolTip": "Library\\ReturnBook.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T10:12:49.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnBook.cs [Design]",
+              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "Library\\ReturnBook.cs",
+              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs [Design]",
+              "RelativeToolTip": "Library\\ReturnBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:54:21.519Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IssueBook.cs [Design]",
-              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\IssueBook.cs",
-              "RelativeDocumentMoniker": "Library\\IssueBook.cs",
-              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\IssueBook.cs [Design]",
-              "RelativeToolTip": "Library\\IssueBook.cs [Design]",
+              "Title": "CompleteBook.cs [Design]",
+              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\CompleteBook.cs",
+              "RelativeDocumentMoniker": "Library\\CompleteBook.cs",
+              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\CompleteBook.cs [Design]",
+              "RelativeToolTip": "Library\\CompleteBook.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:54:03.809Z",
+              "WhenOpened": "2025-10-12T08:54:41.11Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -182,7 +181,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T15:43:19.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudent.cs [Design]",
+              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddStudent.cs",
+              "RelativeDocumentMoniker": "Library\\AddStudent.cs",
+              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddStudent.cs [Design]",
+              "RelativeToolTip": "Library\\AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:04:34.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBooks.cs [Design]",
+              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddBooks.cs",
+              "RelativeDocumentMoniker": "Library\\AddBooks.cs",
+              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\AddBooks.cs [Design]",
+              "RelativeToolTip": "Library\\AddBooks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:25:11.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Library\\Form1.Designer.cs",
@@ -194,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Form1.cs",
               "RelativeDocumentMoniker": "Library\\Form1.cs",
@@ -205,30 +238,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Dashboard.cs",
               "RelativeDocumentMoniker": "Library\\Dashboard.cs",
               "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Dashboard.cs [Design]",
               "RelativeToolTip": "Library\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:47:52.808Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-11T06:47:52.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CompleteBook.cs [Design]",
-              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\CompleteBook.cs",
-              "RelativeDocumentMoniker": "Library\\CompleteBook.cs",
-              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\CompleteBook.cs [Design]",
-              "RelativeToolTip": "Library\\CompleteBook.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:54:41.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Form1.cs",
               "RelativeDocumentMoniker": "Library\\Form1.cs",
@@ -240,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CompleteBook.cs",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\CompleteBook.cs",
               "RelativeDocumentMoniker": "Library\\CompleteBook.cs",
@@ -248,23 +269,12 @@
               "RelativeToolTip": "Library\\CompleteBook.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T14:45:40.507Z"
+              "WhenOpened": "2025-10-16T14:45:40.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ReturnBook.cs",
-              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs",
-              "RelativeDocumentMoniker": "Library\\ReturnBook.cs",
-              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs",
-              "RelativeToolTip": "Library\\ReturnBook.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T10:12:49.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Library",
               "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\Library.csproj",
               "RelativeDocumentMoniker": "Library\\Library.csproj",
@@ -272,17 +282,6 @@
               "RelativeToolTip": "Library\\Library.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-04T08:20:17.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ReturnBook.cs [Design]",
-              "DocumentMoniker": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs",
-              "RelativeDocumentMoniker": "Library\\ReturnBook.cs",
-              "ToolTip": "D:\\OOAD ASSIGNMENT Y4\\Library Management System Projects\\Library\\Library\\ReturnBook.cs [Design]",
-              "RelativeToolTip": "Library\\ReturnBook.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:54:21.519Z"
             },
             {
               "$type": "Document",
@@ -319,8 +318,7 @@
               "RelativeToolTip": "Library\\IssueBook.cs",
               "ViewState": "AgIAAIAAAAAAAAAAAAAIwJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T15:29:30.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T15:29:30.553Z"
             },
             {
               "$type": "Document",
@@ -332,8 +330,7 @@
               "RelativeToolTip": "Library\\AddStudent.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:12:34.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T08:12:34.556Z"
             },
             {
               "$type": "Document",
@@ -345,8 +342,7 @@
               "RelativeToolTip": "Library\\AddBooks.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T03:35:15.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T03:35:15.413Z"
             },
             {
               "$type": "Document",
@@ -358,8 +354,7 @@
               "RelativeToolTip": "Library\\StudentView.cs",
               "ViewState": "AgIAAIQAAAAAAAAAAAAIwJ8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T03:32:33.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T03:32:33.101Z"
             },
             {
               "$type": "Document",
@@ -371,8 +366,7 @@
               "RelativeToolTip": "Library\\IssueBook.Designer.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAQwIIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T04:19:41.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T04:19:41.237Z"
             },
             {
               "$type": "Document",
