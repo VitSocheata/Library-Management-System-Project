@@ -128,6 +128,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="ReturnBook.resx">
       <DependentUpon>ReturnBook.cs</DependentUpon>
@@ -150,6 +151,69 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login Customizable Semi Flat Illustrations _ Pana Style.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Signing in to user account Illustration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d cartoon avatar of a woman minimal 3d character avatar for dp _ Premium AI-generated image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Library Vector Illustration of Book Shelves with Interior Wooden Furniture for Reading, Education and Knowledge in Flat Cartoon Background Design.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\People sitting in armchairs and.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2820%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Library Interior with Bookshelves.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book shelf_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download Books, globe and clock on shelves for free.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Classic Faux Leather Journal Strength &amp; Dignity Proverbs 31_25 Bible Verse Teal Floral Inspirational Notebook, Lined Pages w_Scripture, Ribbon Marker, Zipper Closure.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2821%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download premium image of Book publication reading smiling_ by Nardsucha about reading book cartoon, school girl reading 3d, cartoon, book, and person 12160048.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-removebg-preview %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download Education concept in flat design  for free.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NAEYC PROGRAM STANDARD 9_ PHYSICAL ENVIRONMENT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2822%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download Kids reading books in the library for free.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Arco Iris Sobre Estanterías En Una Biblioteca Mágica, Estantería Arcoiris, Biblioteca Arcoiris, Librero De Ensueño Imagen de Fondo Para Descarga Gratuita - Pngtreee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Virtual Office Zoom Background Office Backdrop Home Office Background Virtual Background Business Backdrop Home Office Backdrop Bookshelf.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

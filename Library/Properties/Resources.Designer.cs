@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Library.Properties
-{
-
-
+namespace Library.Properties {
+    using System;
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -19,52 +19,262 @@ namespace Library.Properties
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources
-    {
-
+    internal class Resources {
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources()
-        {
+        internal Resources() {
         }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager
-        {
-            get
-            {
-                if ((resourceMan == null))
-                {
+        internal static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Library.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
         ///   Overrides the current thread's CurrentUICulture property for all
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture
-        {
-            get
-            {
+        internal static global::System.Globalization.CultureInfo Culture {
+            get {
                 return resourceCulture;
             }
-            set
-            {
+            set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3d_cartoon_avatar_of_a_woman_minimal_3d_character_avatar_for_dp___Premium_AI_generated_image {
+            get {
+                object obj = ResourceManager.GetObject("3d cartoon avatar of a woman minimal 3d character avatar for dp _ Premium AI-gene" +
+                        "rated image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Book_shelf_ {
+            get {
+                object obj = ResourceManager.GetObject("Book shelf_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Classic_Faux_Leather_Journal_Strength___Dignity_Proverbs_31_25_Bible_Verse_Teal_Floral_Inspirational_Notebook__Lined_Pages_w_Scripture__Ribbon_Marker__Zipper_Closure {
+            get {
+                object obj = ResourceManager.GetObject("Classic Faux Leather Journal Strength & Dignity Proverbs 31_25 Bible Verse Teal F" +
+                        "loral Inspirational Notebook, Lined Pages w_Scripture, Ribbon Marker, Zipper Clo" +
+                        "sure", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download__20_ {
+            get {
+                object obj = ResourceManager.GetObject("download (20)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download__21_ {
+            get {
+                object obj = ResourceManager.GetObject("download (21)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download__22_ {
+            get {
+                object obj = ResourceManager.GetObject("download (22)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download__5_ {
+            get {
+                object obj = ResourceManager.GetObject("download (5)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Download_Books__globe_and_clock_on_shelves_for_free {
+            get {
+                object obj = ResourceManager.GetObject("Download Books, globe and clock on shelves for free", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Download_Education_concept_in_flat_design__for_free {
+            get {
+                object obj = ResourceManager.GetObject("Download Education concept in flat design  for free", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Download_Kids_reading_books_in_the_library_for_free {
+            get {
+                object obj = ResourceManager.GetObject("Download Kids reading books in the library for free", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Download_premium_image_of_Book_publication_reading_smiling__by_Nardsucha_about_reading_book_cartoon__school_girl_reading_3d__cartoon__book__and_person_12160048 {
+            get {
+                object obj = ResourceManager.GetObject("Download premium image of Book publication reading smiling_ by Nardsucha about re" +
+                        "ading book cartoon, school girl reading 3d, cartoon, book, and person 12160048", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Fondo_Arco_Iris_Sobre_Estanterías_En_Una_Biblioteca_Mágica__Estantería_Arcoiris__Biblioteca_Arcoiris__Librero_De_Ensueño_Imagen_de_Fondo_Para_Descarga_Gratuita___Pngtreee {
+            get {
+                object obj = ResourceManager.GetObject("Fondo Arco Iris Sobre Estanterías En Una Biblioteca Mágica, Estantería Arcoiris, " +
+                        "Biblioteca Arcoiris, Librero De Ensueño Imagen de Fondo Para Descarga Gratuita -" +
+                        " Pngtreee", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap image_removebg_preview__7_ {
+            get {
+                object obj = ResourceManager.GetObject("image-removebg-preview (7)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap image_removebg_preview__8_ {
+            get {
+                object obj = ResourceManager.GetObject("image-removebg-preview (8)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Library_Interior_with_Bookshelves {
+            get {
+                object obj = ResourceManager.GetObject("Library Interior with Bookshelves", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Library_Vector_Illustration_of_Book_Shelves_with_Interior_Wooden_Furniture_for_Reading__Education_and_Knowledge_in_Flat_Cartoon_Background_Design {
+            get {
+                object obj = ResourceManager.GetObject("Library Vector Illustration of Book Shelves with Interior Wooden Furniture for Re" +
+                        "ading, Education and Knowledge in Flat Cartoon Background Design", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Login_Customizable_Semi_Flat_Illustrations___Pana_Style {
+            get {
+                object obj = ResourceManager.GetObject("Login Customizable Semi Flat Illustrations _ Pana Style", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NAEYC_PROGRAM_STANDARD_9__PHYSICAL_ENVIRONMENT {
+            get {
+                object obj = ResourceManager.GetObject("NAEYC PROGRAM STANDARD 9_ PHYSICAL ENVIRONMENT", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap People_sitting_in_armchairs_and {
+            get {
+                object obj = ResourceManager.GetObject("People sitting in armchairs and", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Signing_in_to_user_account_Illustration {
+            get {
+                object obj = ResourceManager.GetObject("Signing in to user account Illustration", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Virtual_Office_Zoom_Background_Office_Backdrop_Home_Office_Background_Virtual_Background_Business_Backdrop_Home_Office_Backdrop_Bookshelf {
+            get {
+                object obj = ResourceManager.GetObject("Virtual Office Zoom Background Office Backdrop Home Office Background Virtual Bac" +
+                        "kground Business Backdrop Home Office Backdrop Bookshelf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

@@ -46,7 +46,7 @@
     
     mimetype: application/x-microsoft.net.object.binary.base64
     value   : The object must be serialized with 
-            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
     
     mimetype: application/x-microsoft.net.object.soap.base64
@@ -60,6 +60,7 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
@@ -68,9 +69,10 @@
               <xsd:sequence>
                 <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="name" use="required" type="xsd:string" />
               <xsd:attribute name="type" type="xsd:string" />
               <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
@@ -85,9 +87,10 @@
                 <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
                 <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
               <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
               <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
@@ -109,9 +112,73 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="image-removebg-preview (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-removebg-preview (8).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Classic Faux Leather Journal Strength &amp; Dignity Proverbs 31_25 Bible Verse Teal Floral Inspirational Notebook, Lined Pages w_Scripture, Ribbon Marker, Zipper Closure" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Classic Faux Leather Journal Strength &amp; Dignity Proverbs 31_25 Bible Verse Teal Floral Inspirational Notebook, Lined Pages w_Scripture, Ribbon Marker, Zipper Closure.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Download Books, globe and clock on shelves for free" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Download Books, globe and clock on shelves for free.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download (22)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download (22).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NAEYC PROGRAM STANDARD 9_ PHYSICAL ENVIRONMENT" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NAEYC PROGRAM STANDARD 9_ PHYSICAL ENVIRONMENT.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Book shelf_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Book shelf_.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Login Customizable Semi Flat Illustrations _ Pana Style" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Customizable Semi Flat Illustrations _ Pana Style.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Signing in to user account Illustration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Signing in to user account Illustration.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="image-removebg-preview (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image-removebg-preview (7).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3d cartoon avatar of a woman minimal 3d character avatar for dp _ Premium AI-generated image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3d cartoon avatar of a woman minimal 3d character avatar for dp _ Premium AI-generated image.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fondo Arco Iris Sobre Estanterías En Una Biblioteca Mágica, Estantería Arcoiris, Biblioteca Arcoiris, Librero De Ensueño Imagen de Fondo Para Descarga Gratuita - Pngtreee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fondo Arco Iris Sobre Estanterías En Una Biblioteca Mágica, Estantería Arcoiris, Biblioteca Arcoiris, Librero De Ensueño Imagen de Fondo Para Descarga Gratuita - Pngtreee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download (21)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download (21).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Download premium image of Book publication reading smiling_ by Nardsucha about reading book cartoon, school girl reading 3d, cartoon, book, and person 12160048" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Download premium image of Book publication reading smiling_ by Nardsucha about reading book cartoon, school girl reading 3d, cartoon, book, and person 12160048.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Library Interior with Bookshelves" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Library Interior with Bookshelves.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Library Vector Illustration of Book Shelves with Interior Wooden Furniture for Reading, Education and Knowledge in Flat Cartoon Background Design" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Library Vector Illustration of Book Shelves with Interior Wooden Furniture for Reading, Education and Knowledge in Flat Cartoon Background Design.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="People sitting in armchairs and" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\People sitting in armchairs and.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download (5).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Download Education concept in flat design  for free" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Download Education concept in flat design  for free.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Download Kids reading books in the library for free" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Download Kids reading books in the library for free.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download (20)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download (20).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Virtual Office Zoom Background Office Backdrop Home Office Background Virtual Background Business Backdrop Home Office Backdrop Bookshelf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Virtual Office Zoom Background Office Backdrop Home Office Background Virtual Background Business Backdrop Home Office Backdrop Bookshelf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

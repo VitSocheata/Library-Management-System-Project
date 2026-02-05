@@ -47,7 +47,7 @@
             // 
             // menuStrip1
             // 
-            this.menuStrip1.BackColor = System.Drawing.Color.Thistle;
+            this.menuStrip1.BackColor = System.Drawing.Color.LightBlue;
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.booksToolStripMenuItem,
@@ -58,7 +58,7 @@
             this.exitToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1009, 58);
+            this.menuStrip1.Size = new System.Drawing.Size(1006, 58);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -78,7 +78,7 @@
             this.addNewwBookToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("addNewwBookToolStripMenuItem.Image")));
             this.addNewwBookToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.addNewwBookToolStripMenuItem.Name = "addNewwBookToolStripMenuItem";
-            this.addNewwBookToolStripMenuItem.Size = new System.Drawing.Size(254, 56);
+            this.addNewwBookToolStripMenuItem.Size = new System.Drawing.Size(222, 56);
             this.addNewwBookToolStripMenuItem.Text = "Add New Book";
             this.addNewwBookToolStripMenuItem.Click += new System.EventHandler(this.addNewwBookToolStripMenuItem_Click);
             // 
@@ -87,7 +87,7 @@
             this.viewBookToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("viewBookToolStripMenuItem.Image")));
             this.viewBookToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.viewBookToolStripMenuItem.Name = "viewBookToolStripMenuItem";
-            this.viewBookToolStripMenuItem.Size = new System.Drawing.Size(254, 56);
+            this.viewBookToolStripMenuItem.Size = new System.Drawing.Size(222, 56);
             this.viewBookToolStripMenuItem.Text = "View Book";
             this.viewBookToolStripMenuItem.Click += new System.EventHandler(this.viewBookToolStripMenuItem_Click);
             // 
@@ -125,8 +125,8 @@
             this.issueBookToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("issueBookToolStripMenuItem.Image")));
             this.issueBookToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.issueBookToolStripMenuItem.Name = "issueBookToolStripMenuItem";
-            this.issueBookToolStripMenuItem.Size = new System.Drawing.Size(143, 54);
-            this.issueBookToolStripMenuItem.Text = "Issue Book";
+            this.issueBookToolStripMenuItem.Size = new System.Drawing.Size(159, 54);
+            this.issueBookToolStripMenuItem.Text = "Borrow Book";
             this.issueBookToolStripMenuItem.Click += new System.EventHandler(this.issueBookToolStripMenuItem_Click);
             // 
             // returnBooksToolStripMenuItem
@@ -166,9 +166,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::Library.Properties.Resources.Virtual_Office_Zoom_Background_Office_Backdrop_Home_Office_Background_Virtual_Background_Business_Backdrop_Home_Office_Backdrop_Bookshelf;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1009, 546);
+            this.ClientSize = new System.Drawing.Size(1006, 620);
             this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MainMenuStrip = this.menuStrip1;
